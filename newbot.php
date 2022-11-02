@@ -6,5 +6,5 @@ $chat_id=$telegram->ChatID();
 $content=array('chat_id'=>$chat_id,'text'=>'SF componyiyasiga hush kelipsiz');
 $telegram->sendMessage($content);
 /kjgh
-//https://api.telegram.org/bot5654583058:AAHPJUnyknyOEFpAQxgPjHYA6SrzIB7xoKM/setWebhook?url=https://yoursite.com/your_update.php
+//https://api.telegram.org/bot5654583058:AAHPJUnyknyOEFpAQxgPjHYA6SrzIB7xoKM/setWebhook?url=https://github.com/sfarruhbek7/SFCompany/blob/main/newbot.php
 ?>
