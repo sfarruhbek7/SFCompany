@@ -1,5 +1,6 @@
 <?php
 include 'Telegram.php';
+//token
 $telegram = new Telegram('5654583058:AAHPJUnyknyOEFpAQxgPjHYA6SrzIB7xoKM');
 
 $chat_id=$telegram->ChatID();
